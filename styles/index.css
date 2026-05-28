@@ -32,7 +32,7 @@ body {
 /* NAVBAR */
 .barra-boos {
     background-color: blanchedalmond;
-    /* background-image: url(./imgkimetsu/FOOTERTANJIRO.jpg); */
+    /* background-image: url(./assets/images/FOOTERTANJIRO.jpg); */
     font-family: "Trade Winds", cursive;
     border-bottom: 3px solid darkred;
     /* border:3px solid rgb(184, 1, 1); */
@@ -244,7 +244,7 @@ body {
 .footer {
     font-family: "Trade Winds", cursive;
 
-    background-image: url(./imgkimetsu/ropanezuko.jpg);
+    background-image: url(./assets/images/ropanezuko.jpg);
 }
 .footer2 a {
     font-size: 13px;
